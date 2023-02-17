@@ -21,4 +21,7 @@ path = "C:\\Users\\username\..\markdowns"
 
 ## Screenshots
 
-|<img src="screenshots/homepage.png" width=450/>|<img src="screenshots/articles.png" width=450/>|
+|<img src="screenshots/homepage.png" width=450/>|
+|<img src="screenshots/articles.png" width=450/>|
+|<img src="screenshots/about.png" width=450/>|
+
